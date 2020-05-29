@@ -1,0 +1,7 @@
+:NAME homebrew_memorymapping
+
+:TEXT
+MemoryMappingFree
+MemoryMappingAlloc
+MemoryMappingEffectiveToPhysical
+MemoryMappingPhysicalToEffective
