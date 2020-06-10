@@ -5,3 +5,8 @@ MemoryMappingFree
 MemoryMappingAlloc
 MemoryMappingEffectiveToPhysical
 MemoryMappingPhysicalToEffective
+
+:DATA
+MEMAllocFromMappedMemory
+MEMAllocFromMappedMemoryEx
+MEMFreeToMappedMemory
