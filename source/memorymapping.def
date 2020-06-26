@@ -1,8 +1,6 @@
 :NAME homebrew_memorymapping
 
 :TEXT
-MemoryMappingFree
-MemoryMappingAlloc
 MemoryMappingEffectiveToPhysical
 MemoryMappingPhysicalToEffective
 
@@ -10,3 +8,4 @@ MemoryMappingPhysicalToEffective
 MEMAllocFromMappedMemory
 MEMAllocFromMappedMemoryEx
 MEMFreeToMappedMemory
+MEMAllocFromMappedMemoryForGX2Ex
