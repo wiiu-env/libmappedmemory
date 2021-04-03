@@ -5,7 +5,7 @@ extern "C"
 {
 #endif
 
-#include <cstdint>
+#include <stdint.h>
 
 extern uint32_t MemoryMappingEffectiveToPhysical(uint32_t address);
 
