@@ -1,6 +1,6 @@
 # libmemorymapping
-Requires the [MemoryMappingModule](https://github.com/wiiu-env/MemoryMappingModule) to be running via [SetupPayload](https://github.com/wiiu-env/SetupPayload).
-Requires [wut](https://github.com/decaf-emu/wut) for building.
+Requires the [MemoryMappingModule](https://github.com/wiiu-env/MemoryMappingModule) to be running via [WUMSLoader](https://github.com/wiiu-env/WUMSLoader).
+Requires [wut](https://github.com/devkitPro/wut) for building.
 Install via `make install`.
 
 ## Usage
