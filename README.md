@@ -1,6 +1,6 @@
 [![Publish Docker Image](https://github.com/wiiu-env/libmappedmemory/actions/workflows/push_image.yml/badge.svg)](https://github.com/wiiu-env/libmappedmemory/actions/workflows/push_image.yml)
 
-# libmemorymapping
+# libmappedmemory
 Requires the [MemoryMappingModule](https://github.com/wiiu-env/MemoryMappingModule) to be running via [WUMSLoader](https://github.com/wiiu-env/WUMSLoader).
 Requires [wut](https://github.com/devkitPro/wut) for building.
 Install via `make install`.
